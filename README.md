@@ -1,5 +1,5 @@
 # About Me:
-I am studying Software Engineering at Instituto<br> Tecnológico de Costa Rica.<br>Currently learning about data bases, software requirements, computer<br>architecture and algorithm analysis.<br>Interested in IT managment.
+I am studying Software Engineering at Instituto Tecnológico de Costa Rica.Currently learning about data bases, software requirements, computer architecture and algorithm analysis. Passionate about leadership, managment and organization.
 
 
 ## 🌐 Socials:
