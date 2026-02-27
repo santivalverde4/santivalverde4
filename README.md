@@ -9,7 +9,8 @@ I have developed experience in:
 I am actively seeking internship opportunities where I can contribute, grow professionally, and gain hands-on experience in real-world projects. I am particularly interested in roles that allow me to combine technical expertise with leadership, organization, and teamwork.
 
 ## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/santiago-valverde-135316279/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:s.valverde04@gmail.com) 
+- Linkedin: https://www.linkedin.com/in/santiago-valverde-%C3%A1lvarez-135316279/
+- Mail: s.valverde04@gmail.com
 
 # Tech Stack:
 <p align="center">
