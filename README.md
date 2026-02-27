@@ -1,5 +1,12 @@
 #  About Me:
-Greetings! My name is Santiago Valverde and I am studying Computer Engineering at Instituto Tecnológico de Costa Rica. Currently learning about machine learning. Passionate about leadership, managment and organization.
+Hello! My name is Santiago Valverde, and I am a Computer Engineering student at Instituto Tecnológico de Costa Rica. I am currently expanding my knowledge in Machine Learning and continuously strengthening my problem-solving and software development skills.
+
+I have developed experience in:
+- Database systems
+- Front-end development
+- Back-end development
+
+I am actively seeking internship opportunities where I can contribute, grow professionally, and gain hands-on experience in real-world projects. I am particularly interested in roles that allow me to combine technical expertise with leadership, organization, and teamwork.
 
 ##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/santiago-valverde-135316279/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:s.valverde04@gmail.com) 
