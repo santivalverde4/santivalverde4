@@ -16,7 +16,7 @@ I am actively seeking internship opportunities where I can contribute, grow prof
 <p align="center">
   <h3>Technologies:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,cpp,kotlin,html,css,js,ts,react,nodejs,express,mongodb,postgres,supabase&perline=14" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,js,ts,css,html,react,reactnative,kotlin,mongodb,express,jwt,npm,nextjs,nodejs,nodemon,tailwind,vite,mssql,mysql,mongodb,postgres,supabase,figma,git,github,docker,postman,prettier&perline=10" />
   </a>
 </p>
 
