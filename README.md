@@ -1,5 +1,5 @@
 # About Me:
-Hello! My name is Santiago Valverde, and I am a Computer Engineering student at Instituto Tecnológico de Costa Rica. I am currently expanding my knowledge in Machine Learning and continuously strengthening my problem-solving and software development skills.
+Hello! My name is Santiago Valverde, and I am a Computer Engineering student at Instituto Tecnológico de Costa Rica. I am currently expanding my knowledge in Linux system administration and shell scripting, exploring AI/ML fundamentals including model fine-tuning techniques, RAG (Retrieval-Augmented Generation) implementations, and local LLM deployment for understanding how modern AI systems work at a technical level
 
 I have developed experience in:
 - Database systems
