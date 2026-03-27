@@ -17,13 +17,7 @@ Experience with:
 <p align="center">
   <h3>Technologies:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,js,ts,css,html,react,kotlin,mongodb,express, npm,nextjs,nodejs,tailwind,vite, mysql,mongodb,postgres,supabase,figma,git,github,docker,postman,prettier&perline=10" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,js,ts,css,html,react,kotlin,mongodb,express,npm,nextjs,nodejs,tailwind,vite,mysql,mongodb,postgres,supabase,figma,git,github,docker,postman,prettier&perline=10" />
   </a>
 </p>
-
-# GitHub Stats:
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=santivalverde4&theme=transparent&hide_border=false&include_all_commits=true&count_private=false" /><br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=santivalverde4&theme=transparent&hide_border=false" /><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santivalverde4&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-</div>
+and more...
