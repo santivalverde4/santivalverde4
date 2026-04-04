@@ -15,7 +15,6 @@ I am actively seeking internship opportunities where I can contribute, grow prof
 # Tech Stack:
 Experience with:
 <p align="center">
-  <h3>Technologies:</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,js,ts,css,html,react,kotlin,mongodb,express,npm,nextjs,nodejs,tailwind,vite,mysql,mongodb,postgres,supabase,figma,git,github,docker,postman,prettier&perline=10" />
   </a>
