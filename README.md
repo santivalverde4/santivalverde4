@@ -1,7 +1,7 @@
 # About Me:
 Hello! My name is Santiago Valverde, and I am a Computer Engineering student at Instituto Tecnológico de Costa Rica. 
 
-Currently expanding my knowledge in Linux system administration and shell scripting, exploring AI/ML fundamentals including model fine-tuning techniques, RAG (Retrieval-Augmented Generation) implementations, and local LLM deployment for understanding how modern AI systems work at a technical level
+I am continuously expanding my technical knowledge, with a growing interest in Cybersecurity, particularly in the intersection of Artificial Intelligence and Security. I am currently exploring areas such as AI security, secure AI systems, and the potential security challenges associated with modern AI technologies. Additionally, I am developing my knowledge of AI/ML fundamentals, including model fine-tuning, RAG (Retrieval-Augmented Generation), and local LLM deployment to better understand the underlying technologies and architectures powering modern AI systems.
 
 I have developed experience in:
 - Database systems
